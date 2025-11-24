@@ -1,4 +1,30 @@
-# Hi there! 👋
+# Hi there! 👋 I'm Kweezi Perez Christopher
+
+<div align="center">
+  <h3>Software Developer | Web Artisan | AI Researcher & Innovator</h3>
+  <p>
+    Crafting elegant solutions to complex problems. Passionate about clean code, exceptional user experiences, and the future of AI.
+  </p>
+  <a href="https://perezchris.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=google-chrome" alt="Website" />
+  </a>
+  <a href="mailto:kweeziperez712@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</div>
+
+<br />
+
+## 🚀 About Me
+
+I'm a Ugandan software developer with a Bachelor's in Information Systems and Technology. My work bridges the gap between **robust back-end systems** and **intuitive front-end designs**.
+
+*   🔭 **Currently working on:** Advanced AI & Autonomy research.
+*   🌱 **Expertise:** Full-stack development, System Design, and Technical Writing.
+*   💡 **Philosophy:** "Clean, maintainable code that delivers exceptional user experiences."
+*   ⚡ **Fun fact:** When I'm not coding, I'm diving deep into the latest AI trends.
+
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -50,13 +76,6 @@
   <img src="https://skillicons.dev/icons?i=powerapps" height="40" alt="powerapps logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=android" height="40" alt="android logo"  />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="45%" alt="Coding" />
-  <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="45%" alt="Meeting" />
 </div>
 
 ---
