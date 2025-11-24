@@ -4,7 +4,9 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,nodejs,mongodb,python,fastapi,express,laravel,flask,mysql,git,github,linux,opencv,postman,vercel,supabase,netlify,sharepoint,powerapps,android" />
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,nodejs,mongodb,python,fastapi,express,laravel,flask,mysql" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,opencv,postman,vercel,supabase,netlify,sharepoint,powerapps,android" />
   </a>
 </div>
 
