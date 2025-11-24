@@ -1,4 +1,4 @@
-# Wagwan👋
+# Hi there! 👋
 
 ## 🛠️ Technologies & Tools
 
@@ -50,6 +50,13 @@
   <img src="https://skillicons.dev/icons?i=powerapps" height="40" alt="powerapps logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=android" height="40" alt="android logo"  />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="45%" alt="Coding" />
+  <img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="45%" alt="Meeting" />
 </div>
 
 ---
