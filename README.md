@@ -5,11 +5,14 @@
   <p>
     Crafting elegant solutions to complex problems. Passionate about clean code, exceptional user experiences, and the future of AI.
   </p>
-  <a href="https://perezchris.netlify.app/">
+  <a href="https://perezchris.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=google-chrome" alt="Website" />
   </a>
-  <a href="mailto:kweeziperez712@gmail.com">
+  <a href="mailto:kweeziperez712@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://wa.me/256705265713" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat%20With%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
 
@@ -17,7 +20,7 @@
 
 ## 🚀 About Me
 
-I'm a Ugandan software developer with a Bachelor's in Information Systems and Technology. My work bridges the gap between **robust back-end systems** and **intuitive front-end designs**.
+I'm a Ugandan software developer whose work bridges the gap between **robust back-end systems** and **intuitive front-end designs**.
 
 *   🔭 **Currently working on:** Advanced AI & Autonomy research.
 *   🌱 **Expertise:** Full-stack development, System Design, and Technical Writing.
