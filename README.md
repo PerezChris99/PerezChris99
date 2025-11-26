@@ -1,14 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Kweezi%20Perez%20Christopher&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Web%20Artisan%20%7C%20AI%20Researcher&descAlignY=55&descSize=20)
 
 <div align="center">
-  
   <a href="https://perezchris.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
-
 </div>
-
-<br />
 
 ## 🚀 About Me
 
