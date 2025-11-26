@@ -33,7 +33,7 @@ I'm a **Ugandan software developer** with a Bachelor's in Information Systems an
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PerezChris99&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PerezChris99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerezChris99&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
 </div>
 
