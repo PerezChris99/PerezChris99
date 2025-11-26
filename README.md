@@ -1,16 +1,9 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Kweezi%20Perez%20Christopher&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Web%20Artisan%20%7C%20AI%20Researcher&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Kweezi%20Perez%20Christopher&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Web%20Artisan%20%7C%20AI%20Researcher&descAlignY=55&descSize=20)
 
 <div align="center">
   
   <a href="https://perezchris.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-
-  <br />
-  <br />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Crafting+elegant+solutions;Bridging+Back-end+logic+with+Front-end+magic;Exploring+the+future+of+AI+%26+Autonomy" alt="Typing SVG" />
   </a>
 
 </div>
@@ -27,15 +20,6 @@ I'm a **Ugandan software developer** with a Bachelor's in Information Systems an
 *   🌱 **Expertise:** Full-stack development, System Design, and Technical Writing.
 *   💡 **Philosophy:** "Clean, maintainable code that delivers exceptional user experiences."
 *   ⚡ **Fun fact:** When I'm not coding, I'm diving deep into the latest AI trends.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PerezChris99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PerezChris99&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
-</div>
 
 ---
 
