@@ -15,7 +15,7 @@ I'm a **Ugandan software developer** with a Bachelor's in Information Systems an
 *   🔭 **Currently working on:** Advanced AI & Autonomy research.
 *   🌱 **Expertise:** Full-stack development, System Design, and Technical Writing.
 *   💡 **Philosophy:** "Clean, maintainable code that delivers exceptional user experiences."
-*   ⚡ **Fun fact:** When I'm not coding....I'm not coding 😒.
+*   ⚡ **Fun fact:** When I'm not coding....I'm not coding what'd you expect😒.
 
 ---
 
