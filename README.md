@@ -1,4 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Kweezi%20Perez%20Christopher&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Web%20Artisan%20%7C%20AI%20Researcher&descAlignY=55&descSize=20)
 
 <div align="center">
   <a href="https://perezchris.netlify.app/" target="_blank">
@@ -70,5 +69,3 @@ I'm a **Ugandan software developer** with a Bachelor's in Information Systems an
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=android" height="40" alt="android logo"  />
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
