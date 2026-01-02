@@ -9,7 +9,7 @@
 
 > _"Code is poetry, and I am the poet."_
 
-I'm a **Ugandan software developer** with a Bachelor's in Information Systems and Technology. My work bridges the gap between **robust back-end systems** and **intuitive front-end designs**.
+I'm a **Ugandan software developer**, My work bridges the gap between **robust back-end systems** and **intuitive front-end designs**.
 
 *   🔭 **Currently working on:** Advanced AI & Autonomy research.
 *   🌱 **Expertise:** Full-stack development, System Design, and Technical Writing.
