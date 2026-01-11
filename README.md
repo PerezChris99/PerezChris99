@@ -14,7 +14,8 @@ I'm a **Ugandan software developer**, My work bridges the gap between **robust b
 *   🔭 **Currently working on:** Advanced AI & Autonomy research.
 *   🌱 **Expertise:** Full-stack development, System Design, and Technical Writing.
 *   💡 **Philosophy:** "Clean, maintainable code that delivers exceptional user experiences."
-*   ⚡ **Fun fact:** When I'm not coding....I'm not coding what'd you expect😒.
+*   ⚡ **Fun fact1:** I code for fun, but then i get paid for it..isnt that cool?!!
+*   ⚡ **Fun fact2:** When I'm not coding....I'm not coding what'd you expect😒.
 
 ---
 
