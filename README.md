@@ -75,4 +75,6 @@ I'm a **software engineer**, whose work bridges the gap between **robust back-en
   <img src="https://skillicons.dev/icons?i=powerapps" height="40" alt="powerapps logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=android" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pygame" height="40" alt="pygame logo"  />
 </div>
