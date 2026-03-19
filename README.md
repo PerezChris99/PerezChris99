@@ -9,7 +9,7 @@
 
 > _"Code is poetry, and I am the poet."_
 
-I'm a **software engineer**, whose work bridges the gap between **robust back-end systems** and **intuitive front-end designs**.
+I'm a **Digital Architect**, whose work bridges the gap between **robust back-end systems** and **intuitive front-end designs**.
 
 *   🔭 **Currently working on:** Advanced AI & Autonomy research.
 *   🌱 **Expertise:** Full-stack development, System Design, and Technical Writing.
@@ -75,4 +75,7 @@ I'm a **software engineer**, whose work bridges the gap between **robust back-en
   <img src="https://skillicons.dev/icons?i=powerapps" height="40" alt="powerapps logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=android" height="40" alt="android logo"  />
+  <img width="12">
+  <img src="https://skillicons.dev/icons?i=sql" height="40" alt="sql logo"  />
+  <img width="12" />
 </div>
