@@ -69,13 +69,4 @@ I'm a **Digital Architect**, whose work bridges the gap between **robust back-en
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sharepoint" height="40" alt="sharepoint logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powerapps" height="40" alt="powerapps logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=android" height="40" alt="android logo"  />
-  <img width="12">
-  <img src="https://skillicons.dev/icons?i=sql" height="40" alt="sql logo"  />
-  <img width="12" />
 </div>
