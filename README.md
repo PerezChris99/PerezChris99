@@ -74,6 +74,4 @@ I enjoy taking systems from idea to production — designing interfaces that are
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=railway" height="40" alt="railway logo"  />
 </div>
