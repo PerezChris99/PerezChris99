@@ -27,7 +27,7 @@ I enjoy taking systems from idea to production — designing interfaces that are
 
 * ⚡ **Fun fact:** I code for fun, then somehow people started paying me to do it. I'm still trying to figure out how that happened.
 
-* 😒 **When I'm not coding:** I'm probably coding. What did you expect?
+* 😒 **When I'm not coding:** I'm definitely not coding. What did you expect?
 
 
 ## 🛠️ Technologies & Tools
