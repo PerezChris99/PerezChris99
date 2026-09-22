@@ -7,17 +7,28 @@
 
 ## 🚀 About Me
 
-> _"Code is poetry, and I am the poet."_
+> *"I build software that looks good, works hard, and is built to last."*
 
-I'm a **Digital Architect**, whose work bridges the gap between **robust back-end systems** and **intuitive front-end designs**.
+I'm a **Full-Stack Developer** with a natural eye for **frontend design and user experience**, and a strong focus on building **fast, reliable, secure, and scalable backend systems**.
 
-*   🔭 **Currently working on:** Advanced AI & Autonomy research.
-*   🌱 **Expertise:** Full-stack development, System Design, and Technical Writing.
-*   💡 **Philosophy:** "Clean, maintainable code that delivers exceptional user experiences."
-*   ⚡ **Fun fact1:** I code for fun, but then i get paid for it..isnt that cool?!!
-*   ⚡ **Fun fact2:** When I'm not coding....I'm not coding what'd you expect😒.
+I enjoy taking systems from idea to production — designing interfaces that are beautiful and intuitive, while engineering the backend infrastructure that makes them reliable under real-world use.
 
----
+* 🎨 **Frontend:** I have a natural talent for creating **beautiful, interactive, and intuitive UIs and dashboards**. I care about the details — usability, responsiveness, accessibility, performance, and making complex systems feel simple to use.
+
+* ⚙️ **Backend:** I build **fast, reliable, secure, and production-ready backends** designed for real users and real workloads — not fragile, "vibe-coded" junk that falls apart the moment it leaves development.
+
+* 🏗️ **Engineering:** I focus on **clean architecture, scalability, reliability, security, performance, and maintainability** from the beginning rather than trying to bolt them on later.
+
+* 🤖 **AI & Automation:** I'm currently building several **AI-powered systems**, while also working extensively with **AI tools at scale** to accelerate development, automation, research, and problem-solving.
+
+* 🔭 **Currently building:** Full-stack applications, AI-powered systems, automation workflows, and scalable software architectures.
+
+* 💡 **Philosophy:** **Beautiful on the surface. Solid underneath. Built for production.**
+
+* ⚡ **Fun fact:** I code for fun, then somehow people started paying me to do it. I'm still trying to figure out how that happened.
+
+* 😒 **When I'm not coding:** I'm probably coding. What did you expect?
+
 
 ## 🛠️ Technologies & Tools
 
