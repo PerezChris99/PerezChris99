@@ -1,4 +1,3 @@
-
 <div align="center">
   <a href="https://perezchris.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
@@ -78,4 +77,12 @@ I enjoy taking systems from idea to production — designing interfaces that are
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" alt="Windows 11 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="PowerShell logo" />
+  <img width="12" />
+  <img src="https://skill-icons-web.vercel.app/icons?i=chatgpt" height="40" alt="ChatGPT logo" />
+  <img width="12" />
+  <img src="https://skill-icons-web.vercel.app/icons?i=githubcopilot" height="40" alt="GitHub Copilot logo" />
+  <img width="12" />
+  <img src="https://skill-icons-web.vercel.app/icons?i=codex" height="40" alt="Codex logo" />
+  <img width="12" />
+  <img src="https://skill-icons-web.vercel.app/icons?i=deepseek" height="40" alt="DeepSeek logo" />
 </div>
