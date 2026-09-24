@@ -78,11 +78,11 @@ I enjoy taking systems from idea to production — designing interfaces that are
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="PowerShell logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/openai" height="40" alt="ChatGPT logo" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/openai.svg" height="40" alt="ChatGPT / OpenAI logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/githubcopilot" height="40" alt="GitHub Copilot logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/codex.svg" height="40" alt="Codex logo" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/codex/default.svg" height="40" alt="Codex logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/deepseek" height="40" alt="DeepSeek logo" />
 </div>
