@@ -78,7 +78,7 @@ I enjoy taking systems from idea to production — designing interfaces that are
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="PowerShell logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="40" alt="ChatGPT logo" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" height="40" alt="ChatGPT / OpenAI logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/githubcopilot" height="40" alt="GitHub Copilot logo" />
   <img width="12" />
