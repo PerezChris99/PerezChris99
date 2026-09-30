@@ -101,6 +101,6 @@ I enjoy taking systems from idea to production — designing interfaces that are
   <img width="12" />
   <img src="https://cdn.simpleicons.org/langgraph" height="40" alt="LangGraph logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/google" height="40" alt="Google ADK / Google Agent Development Kit logo" />
+  <img src="https://raw.githubusercontent.com/google/adk-python/main/assets/agent-development-kit.png" height="40" alt="Google ADK / Google Agent Development Kit logo" />
   <img width="12" />
 </div>
