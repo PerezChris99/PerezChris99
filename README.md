@@ -87,4 +87,14 @@ I enjoy taking systems from idea to production — designing interfaces that are
   <img width="12" />
   <img src="https://cdn.simpleicons.org/perplexity" height="40" alt="Perplexity AI logo" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/supabase" height="40" alt="Supabase logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/neon" height="40" alt="Neon logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googlegemini" height="40" alt="Google AI Studio / Gemini logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/railway" height="40" alt="Railway logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prisma" height="40" alt="Prisma logo" />
+  <img width="12" />
 </div>
