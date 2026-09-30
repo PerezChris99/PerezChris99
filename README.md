@@ -10,17 +10,19 @@
 
 I'm a **Full-Stack Developer** with a natural eye for **frontend design and user experience**, and a strong focus on building **fast, reliable, secure, and scalable backend systems**.
 
-I enjoy taking systems from idea to production — designing interfaces that are beautiful and intuitive, while engineering the backend infrastructure that makes them reliable under real-world use.
+I enjoy taking systems from idea to production, designing interfaces that are beautiful and intuitive while engineering the backend infrastructure that makes them reliable under real-world use.
 
-* 🎨 **Frontend:** I have a natural talent for creating **beautiful, interactive, and intuitive UIs and dashboards**. I care about the details — usability, responsiveness, accessibility, performance, and making complex systems feel simple to use.
+* 🎨 **Frontend:** I have a natural talent for creating **beautiful, interactive, and intuitive UIs, dashboards, and dynamic experiences**. I care about the details, usability, responsiveness, accessibility, and performance.
 
-* ⚙️ **Backend:** I build **fast, reliable, secure, and production-ready backends** designed for real users and real workloads — not fragile, "vibe-coded" junk that falls apart the moment it leaves development.
+* ⚙️ **Backend:** I build **fast, reliable, secure, and production-ready backends** designed for real users and real workloads, not vibe-coded junk that breaks the moment it leaves development.
 
-* 🏗️ **Engineering:** I focus on **clean architecture, scalability, reliability, security, performance, and maintainability** from the beginning rather than trying to bolt them on later.
+* 🏗️ **Engineering:** I focus on **clean architecture, scalability, reliability, security, performance, and maintainability** from the beginning.
 
-* 🤖 **AI & Automation:** I'm currently building several **AI-powered systems**, while also working extensively with **AI tools at scale** to accelerate development, automation, research, and problem-solving.
+* 📊 **Dashboards:** I enjoy developing **interactive, dynamic dashboards** that turn complex data and systems into something clear and easy to use.
 
-* 🔭 **Currently building:** Full-stack applications, AI-powered systems, automation workflows, and scalable software architectures.
+* 🤖 **AI & Automation:** I'm currently building **AI-powered systems** and using AI tools to accelerate development, automation, research, and problem-solving.
+
+* 🔭 **Currently building:** Full-stack applications, AI-powered systems, automation workflows, interactive dashboards, and production-ready software.
 
 * 💡 **Philosophy:** **Beautiful on the surface. Solid underneath. Built for production.**
 
