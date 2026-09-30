@@ -30,8 +30,8 @@ I enjoy taking systems from idea to production — designing interfaces that are
 
 ## 🛠️ Technologies & Tools
 
-### 🎨 Frontend
 <div align="center">
+  <!-- Frontend: fundamentals → frameworks -->
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5 logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3 logo" />
@@ -45,10 +45,9 @@ I enjoy taking systems from idea to production — designing interfaces that are
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js logo" />
-</div>
+  <img width="12" />
 
-### ⚙️ Backend & Server
-<div align="center">
+  <!-- Backend: runtime → framework → higher-performance API framework -->
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express logo" />
@@ -58,17 +57,15 @@ I enjoy taking systems from idea to production — designing interfaces that are
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI logo" />
-</div>
+  <img width="12" />
 
-### 🔌 API & Data Access
-<div align="center">
+  <!-- API / data access -->
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/prisma" height="40" alt="Prisma logo" />
-</div>
+  <img width="12" />
 
-### 🗄️ Databases & Data Platforms
-<div align="center">
+  <!-- Databases / data platforms: document → relational → managed platforms -->
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL logo" />
@@ -78,10 +75,9 @@ I enjoy taking systems from idea to production — designing interfaces that are
   <img src="https://cdn.simpleicons.org/supabase" height="40" alt="Supabase logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/neon" height="40" alt="Neon logo" />
-</div>
+  <img width="12" />
 
-### 🤖 AI, Agents & LLM Tooling
-<div align="center">
+  <!-- AI / agents: AI assistants → model platforms → agent frameworks -->
   <img src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openai.png" height="40" alt="ChatGPT / OpenAI logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/googlegemini" height="40" alt="Google AI Studio / Gemini logo" />
@@ -90,43 +86,40 @@ I enjoy taking systems from idea to production — designing interfaces that are
   <img width="12" />
   <img src="https://cdn.simpleicons.org/perplexity" height="40" alt="Perplexity AI logo" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/githubcopilot" height="40" alt="GitHub Copilot logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/langchain" height="40" alt="LangChain logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/langgraph" height="40" alt="LangGraph logo" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/google/adk-python/main/assets/agent-development-kit.png" height="40" alt="Google ADK / Google Agent Development Kit logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/githubcopilot" height="40" alt="GitHub Copilot logo" />
-</div>
 
-### 👁️ Computer Vision & Detection
-<div align="center">
+  <!-- Computer vision -->
   <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="OpenCV logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/yolo" height="40" alt="YOLO logo" />
-</div>
+  <img width="12" />
 
-### 🖥️ Operating Systems & CLI
-<div align="center">
+  <!-- Operating systems / CLI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" alt="Windows 11 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="40" alt="PowerShell logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux logo" />
-</div>
+  <img width="12" />
 
-### 🔧 Version Control & Collaboration
-<div align="center">
+  <!-- Version control -->
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
-</div>
+  <img width="12" />
 
-### ☁️ Cloud, Hosting & Deployment
-<div align="center">
+  <!-- Cloud / deployment -->
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Netlify logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/railway" height="40" alt="Railway logo" />
+  <img width="12" />
 </div>
