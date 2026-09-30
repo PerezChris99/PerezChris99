@@ -105,4 +105,6 @@ I enjoy taking systems from idea to production — designing interfaces that are
   <img width="12" />
   <img src="https://cdn.simpleicons.org/yolo" height="40" alt="YOLO logo" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/internetofthings" height="40" alt="IoT logo" />
+  <img width="12" />
 </div>
