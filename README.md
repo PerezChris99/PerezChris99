@@ -84,4 +84,7 @@ I enjoy taking systems from idea to production — designing interfaces that are
   <img src="https://cdn.simpleicons.org/githubcopilot" height="40" alt="GitHub Copilot logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/deepseek" height="40" alt="DeepSeek logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/perplexity" height="40" alt="Perplexity AI logo" />
+  <img width="12" />
 </div>
